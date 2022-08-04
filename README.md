@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Node Js, Rest Api ,**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sherazahmad720/sherazahmad720](sherazahmad72)
+- 👨‍💻 All of my projects are available at [sherazahmad720](https://github.com/sherazahmad720/sherazahmad720)
 
 - 💬 Ask me about **Flutter frontend & back end , firebase**
 
