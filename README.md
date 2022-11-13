@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/programmer_b0y" target="blank"><img src="https://img.shields.io/twitter/follow/programmer_b0y?logo=twitter&style=for-the-badge" alt="programmer_b0y" /></a> </p>
 
-- 🔭 I’m currently working in [Techorra](www.techorra.com)
+- 🔭 I’m currently working in [Techorra](www.techorra.co)
 
 - 🌱 I’m currently learning **Node Js, Rest Api ,**
 
